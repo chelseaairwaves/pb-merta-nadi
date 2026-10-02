@@ -1,0 +1,1 @@
+console.log("Website PB Merta Nadi berhasil dijalankan.");
